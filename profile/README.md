@@ -1,4 +1,8 @@
-## Hello!
+<p align="center" style="margin-bottom: 0px !important;">
+    <img src="https://cdn.vouchify.org/icons/vouchify.png" alt="Vouchify Logo" align="center">
+</p>
+<h1 align="center" style="margin-top: 0px;">Vouchify</h1>
+<p align="center" style="margin-bottom 0px !important;">Vouching made easier</p>
 
 <!--
 
